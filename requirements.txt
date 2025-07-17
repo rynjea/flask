@@ -1,6 +1,0 @@
-flask
-psycopg2-binary
-requests
-numpy
-opencv-python
-gunicorn
